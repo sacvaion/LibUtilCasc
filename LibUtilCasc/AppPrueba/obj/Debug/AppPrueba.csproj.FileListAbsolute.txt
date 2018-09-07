@@ -1,0 +1,55 @@
+C:\Users\CARLOS\source\repos\LibUtilCasc\AppPrueba\bin\Debug\AppPrueba.exe.config
+C:\Users\CARLOS\source\repos\LibUtilCasc\AppPrueba\bin\Debug\AppPrueba.exe
+C:\Users\CARLOS\source\repos\LibUtilCasc\AppPrueba\bin\Debug\AppPrueba.pdb
+C:\Users\CARLOS\source\repos\LibUtilCasc\AppPrueba\bin\Debug\LibUtilCasc.dll
+C:\Users\CARLOS\source\repos\LibUtilCasc\AppPrueba\bin\Debug\LibUtilCasc.pdb
+C:\Users\CARLOS\source\repos\LibUtilCasc\AppPrueba\obj\Debug\AppPrueba.csprojResolveAssemblyReference.cache
+C:\Users\CARLOS\source\repos\LibUtilCasc\AppPrueba\obj\Debug\AppPrueba.Form1.resources
+C:\Users\CARLOS\source\repos\LibUtilCasc\AppPrueba\obj\Debug\AppPrueba.Properties.Resources.resources
+C:\Users\CARLOS\source\repos\LibUtilCasc\AppPrueba\obj\Debug\AppPrueba.csproj.GenerateResource.Cache
+C:\Users\CARLOS\source\repos\LibUtilCasc\AppPrueba\obj\Debug\AppPrueba.csproj.CoreCompileInputs.cache
+C:\Users\CARLOS\source\repos\LibUtilCasc\AppPrueba\obj\Debug\AppPrueba.exe
+C:\Users\CARLOS\source\repos\LibUtilCasc\AppPrueba\obj\Debug\AppPrueba.pdb
+C:\Users\carlos.siabato\Dropbox\PROGRAMACION\Proyectos Lib\LibUtilCasc\AppPrueba\bin\Debug\AppPrueba.exe.config
+C:\Users\carlos.siabato\Dropbox\PROGRAMACION\Proyectos Lib\LibUtilCasc\AppPrueba\bin\Debug\AppPrueba.exe
+C:\Users\carlos.siabato\Dropbox\PROGRAMACION\Proyectos Lib\LibUtilCasc\AppPrueba\bin\Debug\AppPrueba.pdb
+C:\Users\carlos.siabato\Dropbox\PROGRAMACION\Proyectos Lib\LibUtilCasc\AppPrueba\bin\Debug\LibUtilCasc.dll
+C:\Users\carlos.siabato\Dropbox\PROGRAMACION\Proyectos Lib\LibUtilCasc\AppPrueba\bin\Debug\LibUtilCasc.pdb
+C:\Users\carlos.siabato\Dropbox\PROGRAMACION\Proyectos Lib\LibUtilCasc\AppPrueba\obj\Debug\AppPrueba.csprojResolveAssemblyReference.cache
+C:\Users\carlos.siabato\Dropbox\PROGRAMACION\Proyectos Lib\LibUtilCasc\AppPrueba\obj\Debug\AppPrueba.Form1.resources
+C:\Users\carlos.siabato\Dropbox\PROGRAMACION\Proyectos Lib\LibUtilCasc\AppPrueba\obj\Debug\AppPrueba.Properties.Resources.resources
+C:\Users\carlos.siabato\Dropbox\PROGRAMACION\Proyectos Lib\LibUtilCasc\AppPrueba\obj\Debug\AppPrueba.csproj.GenerateResource.Cache
+C:\Users\carlos.siabato\Dropbox\PROGRAMACION\Proyectos Lib\LibUtilCasc\AppPrueba\obj\Debug\AppPrueba.csproj.CoreCompileInputs.cache
+C:\Users\carlos.siabato\Dropbox\PROGRAMACION\Proyectos Lib\LibUtilCasc\AppPrueba\obj\Debug\AppPrueba.exe
+C:\Users\carlos.siabato\Dropbox\PROGRAMACION\Proyectos Lib\LibUtilCasc\AppPrueba\obj\Debug\AppPrueba.pdb
+C:\Users\carlos.siabato\Dropbox\PROGRAMACION\Proyectos Lib\LibUtilCasc\AppPrueba\bin\Debug\Vintasoft.Barcode.dll
+C:\Users\carlos.siabato\Dropbox\PROGRAMACION\Proyectos Lib\LibUtilCasc\AppPrueba\bin\Debug\Newtonsoft.Json.dll
+C:\Users\carlos.siabato\Dropbox\PROGRAMACION\Proyectos Lib\LibUtilCasc\AppPrueba\bin\Debug\RestSharp.dll
+C:\Users\carlos.siabato\Dropbox\PROGRAMACION\Proyectos Lib\LibUtilCasc\AppPrueba\bin\Debug\System.Net.Http.dll
+C:\Users\carlos.siabato\Dropbox\PROGRAMACION\Proyectos Lib\LibUtilCasc\AppPrueba\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\carlos.siabato\Dropbox\PROGRAMACION\Proyectos Lib\LibUtilCasc\AppPrueba\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\carlos.siabato\Dropbox\PROGRAMACION\Proyectos Lib\LibUtilCasc\AppPrueba\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\carlos.siabato\Dropbox\PROGRAMACION\Proyectos Lib\LibUtilCasc\AppPrueba\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\carlos.siabato\Dropbox\PROGRAMACION\Proyectos Lib\LibUtilCasc\AppPrueba\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\carlos.siabato\Dropbox\PROGRAMACION\Proyectos Lib\LibUtilCasc\AppPrueba\bin\Debug\Newtonsoft.Json.xml
+D:\VS\Proyectos Lib\LibUtilCasc\AppPrueba\bin\Debug\AppPrueba.exe.config
+D:\VS\Proyectos Lib\LibUtilCasc\AppPrueba\bin\Debug\AppPrueba.exe
+D:\VS\Proyectos Lib\LibUtilCasc\AppPrueba\bin\Debug\AppPrueba.pdb
+D:\VS\Proyectos Lib\LibUtilCasc\AppPrueba\bin\Debug\LibUtilCasc.dll
+D:\VS\Proyectos Lib\LibUtilCasc\AppPrueba\bin\Debug\Newtonsoft.Json.dll
+D:\VS\Proyectos Lib\LibUtilCasc\AppPrueba\bin\Debug\RestSharp.dll
+D:\VS\Proyectos Lib\LibUtilCasc\AppPrueba\bin\Debug\System.Net.Http.dll
+D:\VS\Proyectos Lib\LibUtilCasc\AppPrueba\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\VS\Proyectos Lib\LibUtilCasc\AppPrueba\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\VS\Proyectos Lib\LibUtilCasc\AppPrueba\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\VS\Proyectos Lib\LibUtilCasc\AppPrueba\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\VS\Proyectos Lib\LibUtilCasc\AppPrueba\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\VS\Proyectos Lib\LibUtilCasc\AppPrueba\bin\Debug\Vintasoft.Barcode.dll
+D:\VS\Proyectos Lib\LibUtilCasc\AppPrueba\bin\Debug\LibUtilCasc.pdb
+D:\VS\Proyectos Lib\LibUtilCasc\AppPrueba\bin\Debug\Newtonsoft.Json.xml
+D:\VS\Proyectos Lib\LibUtilCasc\AppPrueba\obj\Debug\AppPrueba.csprojResolveAssemblyReference.cache
+D:\VS\Proyectos Lib\LibUtilCasc\AppPrueba\obj\Debug\AppPrueba.Form1.resources
+D:\VS\Proyectos Lib\LibUtilCasc\AppPrueba\obj\Debug\AppPrueba.Properties.Resources.resources
+D:\VS\Proyectos Lib\LibUtilCasc\AppPrueba\obj\Debug\AppPrueba.csproj.GenerateResource.Cache
+D:\VS\Proyectos Lib\LibUtilCasc\AppPrueba\obj\Debug\AppPrueba.exe
+D:\VS\Proyectos Lib\LibUtilCasc\AppPrueba\obj\Debug\AppPrueba.pdb

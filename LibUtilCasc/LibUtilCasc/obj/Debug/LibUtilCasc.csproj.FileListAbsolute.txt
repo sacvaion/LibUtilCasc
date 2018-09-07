@@ -1,0 +1,21 @@
+C:\Users\CARLOS\source\repos\LibUtilCasc\LibUtilCasc\obj\Debug\LibUtilCasc.csproj.CoreCompileInputs.cache
+C:\Users\CARLOS\source\repos\LibUtilCasc\LibUtilCasc\bin\Debug\LibUtilCasc.dll
+C:\Users\CARLOS\source\repos\LibUtilCasc\LibUtilCasc\bin\Debug\LibUtilCasc.pdb
+C:\Users\CARLOS\source\repos\LibUtilCasc\LibUtilCasc\obj\Debug\LibUtilCasc.dll
+C:\Users\CARLOS\source\repos\LibUtilCasc\LibUtilCasc\obj\Debug\LibUtilCasc.pdb
+C:\Users\carlos.siabato\Dropbox\PROGRAMACION\Proyectos Lib\LibUtilCasc\LibUtilCasc\bin\Debug\LibUtilCasc.dll
+C:\Users\carlos.siabato\Dropbox\PROGRAMACION\Proyectos Lib\LibUtilCasc\LibUtilCasc\bin\Debug\LibUtilCasc.pdb
+C:\Users\carlos.siabato\Dropbox\PROGRAMACION\Proyectos Lib\LibUtilCasc\LibUtilCasc\obj\Debug\LibUtilCasc.csproj.CoreCompileInputs.cache
+C:\Users\carlos.siabato\Dropbox\PROGRAMACION\Proyectos Lib\LibUtilCasc\LibUtilCasc\obj\Debug\LibUtilCasc.dll
+C:\Users\carlos.siabato\Dropbox\PROGRAMACION\Proyectos Lib\LibUtilCasc\LibUtilCasc\obj\Debug\LibUtilCasc.pdb
+C:\Users\carlos.siabato\Dropbox\PROGRAMACION\Proyectos Lib\LibUtilCasc\LibUtilCasc\bin\Debug\Vintasoft.Barcode.dll
+C:\Users\carlos.siabato\Dropbox\PROGRAMACION\Proyectos Lib\LibUtilCasc\LibUtilCasc\obj\Debug\LibUtilCasc.csprojResolveAssemblyReference.cache
+C:\Users\carlos.siabato\Dropbox\PROGRAMACION\Proyectos Lib\LibUtilCasc\LibUtilCasc\bin\Debug\Newtonsoft.Json.dll
+C:\Users\carlos.siabato\Dropbox\PROGRAMACION\Proyectos Lib\LibUtilCasc\LibUtilCasc\bin\Debug\Newtonsoft.Json.xml
+D:\VS\Proyectos Lib\LibUtilCasc\LibUtilCasc\bin\Debug\LibUtilCasc.dll
+D:\VS\Proyectos Lib\LibUtilCasc\LibUtilCasc\bin\Debug\LibUtilCasc.pdb
+D:\VS\Proyectos Lib\LibUtilCasc\LibUtilCasc\bin\Debug\Newtonsoft.Json.dll
+D:\VS\Proyectos Lib\LibUtilCasc\LibUtilCasc\bin\Debug\Vintasoft.Barcode.dll
+D:\VS\Proyectos Lib\LibUtilCasc\LibUtilCasc\bin\Debug\Newtonsoft.Json.xml
+D:\VS\Proyectos Lib\LibUtilCasc\LibUtilCasc\obj\Debug\LibUtilCasc.dll
+D:\VS\Proyectos Lib\LibUtilCasc\LibUtilCasc\obj\Debug\LibUtilCasc.pdb

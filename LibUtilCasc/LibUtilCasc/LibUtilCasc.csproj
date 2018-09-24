@@ -33,6 +33,10 @@
     <Reference Include="Newtonsoft.Json, Version=11.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
       <HintPath>..\packages\Newtonsoft.Json.11.0.2\lib\net45\Newtonsoft.Json.dll</HintPath>
     </Reference>
+    <Reference Include="Renci.SshNet, Version=2014.4.6.0, Culture=neutral, PublicKeyToken=1cee9f8bde3db106, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>Lib\Renci.SshNet.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Configuration" />
     <Reference Include="System.Core" />
@@ -54,8 +58,12 @@
     <Compile Include="UtilGen.cs" />
     <Compile Include="UtilNetWork.cs" />
     <Compile Include="UtilPass.cs" />
+    <Compile Include="UtilRaspberry.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Lib\Renci.SshNet.dll">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
     <Content Include="Lib\Vintasoft.Barcode.dll" />
   </ItemGroup>
   <ItemGroup>

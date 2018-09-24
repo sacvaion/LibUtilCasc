@@ -53,3 +53,26 @@ D:\VS\Proyectos Lib\LibUtilCasc\AppPrueba\obj\Debug\AppPrueba.Properties.Resourc
 D:\VS\Proyectos Lib\LibUtilCasc\AppPrueba\obj\Debug\AppPrueba.csproj.GenerateResource.Cache
 D:\VS\Proyectos Lib\LibUtilCasc\AppPrueba\obj\Debug\AppPrueba.exe
 D:\VS\Proyectos Lib\LibUtilCasc\AppPrueba\obj\Debug\AppPrueba.pdb
+D:\GitHub\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\Lib\Renci.SshNet.dll
+D:\GitHub\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\AppPrueba.exe.config
+D:\GitHub\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\AppPrueba.exe
+D:\GitHub\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\AppPrueba.pdb
+D:\GitHub\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\LibUtilCasc.dll
+D:\GitHub\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\Newtonsoft.Json.dll
+D:\GitHub\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\RestSharp.dll
+D:\GitHub\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Net.Http.dll
+D:\GitHub\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\GitHub\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\GitHub\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\GitHub\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\GitHub\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\GitHub\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\Renci.SshNet.dll
+D:\GitHub\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\LibUtilCasc.pdb
+D:\GitHub\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\Newtonsoft.Json.xml
+D:\GitHub\LibUtilCasc\LibUtilCasc\AppPrueba\obj\Debug\AppPrueba.csprojResolveAssemblyReference.cache
+D:\GitHub\LibUtilCasc\LibUtilCasc\AppPrueba\obj\Debug\AppPrueba.Form1.resources
+D:\GitHub\LibUtilCasc\LibUtilCasc\AppPrueba\obj\Debug\AppPrueba.Properties.Resources.resources
+D:\GitHub\LibUtilCasc\LibUtilCasc\AppPrueba\obj\Debug\AppPrueba.csproj.GenerateResource.Cache
+D:\GitHub\LibUtilCasc\LibUtilCasc\AppPrueba\obj\Debug\AppPrueba.csproj.CoreCompileInputs.cache
+D:\GitHub\LibUtilCasc\LibUtilCasc\AppPrueba\obj\Debug\AppPrueba.exe
+D:\GitHub\LibUtilCasc\LibUtilCasc\AppPrueba\obj\Debug\AppPrueba.pdb

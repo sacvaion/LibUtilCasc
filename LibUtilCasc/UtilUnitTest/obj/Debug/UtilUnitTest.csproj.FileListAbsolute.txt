@@ -15,3 +15,28 @@ D:\VS\Proyectos Lib\LibUtilCasc\UtilUnitTest\bin\Debug\Microsoft.VisualStudio.Te
 D:\VS\Proyectos Lib\LibUtilCasc\UtilUnitTest\bin\Debug\Newtonsoft.Json.xml
 D:\VS\Proyectos Lib\LibUtilCasc\UtilUnitTest\obj\Debug\UtilUnitTest.dll
 D:\VS\Proyectos Lib\LibUtilCasc\UtilUnitTest\obj\Debug\UtilUnitTest.pdb
+D:\GitHub\LibUtilCasc\LibUtilCasc\UtilUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\GitHub\LibUtilCasc\LibUtilCasc\UtilUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\GitHub\LibUtilCasc\LibUtilCasc\UtilUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\GitHub\LibUtilCasc\LibUtilCasc\UtilUnitTest\bin\Debug\es\._Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+D:\GitHub\LibUtilCasc\LibUtilCasc\UtilUnitTest\bin\Debug\es\._Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+D:\GitHub\LibUtilCasc\LibUtilCasc\UtilUnitTest\bin\Debug\es\._Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\GitHub\LibUtilCasc\LibUtilCasc\UtilUnitTest\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+D:\GitHub\LibUtilCasc\LibUtilCasc\UtilUnitTest\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+D:\GitHub\LibUtilCasc\LibUtilCasc\UtilUnitTest\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\GitHub\LibUtilCasc\LibUtilCasc\UtilUnitTest\bin\Debug\Lib\Renci.SshNet.dll
+D:\GitHub\LibUtilCasc\LibUtilCasc\UtilUnitTest\bin\Debug\UtilUnitTest.dll
+D:\GitHub\LibUtilCasc\LibUtilCasc\UtilUnitTest\bin\Debug\UtilUnitTest.pdb
+D:\GitHub\LibUtilCasc\LibUtilCasc\UtilUnitTest\bin\Debug\LibUtilCasc.dll
+D:\GitHub\LibUtilCasc\LibUtilCasc\UtilUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\GitHub\LibUtilCasc\LibUtilCasc\UtilUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\GitHub\LibUtilCasc\LibUtilCasc\UtilUnitTest\bin\Debug\Renci.SshNet.dll
+D:\GitHub\LibUtilCasc\LibUtilCasc\UtilUnitTest\bin\Debug\Newtonsoft.Json.dll
+D:\GitHub\LibUtilCasc\LibUtilCasc\UtilUnitTest\bin\Debug\LibUtilCasc.pdb
+D:\GitHub\LibUtilCasc\LibUtilCasc\UtilUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\GitHub\LibUtilCasc\LibUtilCasc\UtilUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\GitHub\LibUtilCasc\LibUtilCasc\UtilUnitTest\bin\Debug\Newtonsoft.Json.xml
+D:\GitHub\LibUtilCasc\LibUtilCasc\UtilUnitTest\obj\Debug\UtilUnitTest.csprojResolveAssemblyReference.cache
+D:\GitHub\LibUtilCasc\LibUtilCasc\UtilUnitTest\obj\Debug\UtilUnitTest.csproj.CoreCompileInputs.cache
+D:\GitHub\LibUtilCasc\LibUtilCasc\UtilUnitTest\obj\Debug\UtilUnitTest.dll
+D:\GitHub\LibUtilCasc\LibUtilCasc\UtilUnitTest\obj\Debug\UtilUnitTest.pdb

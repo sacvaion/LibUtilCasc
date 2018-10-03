@@ -41,6 +41,9 @@ namespace AppPrueba
 
             UtilGen.CreateIdTransaction(DateTime.Now);
 
+            UtilRaspberry.ConectarRaspberry("192.168.0.24", "encenderLed");
+            UtilRaspberry.ConectarRaspberry("192.168.0.24", "apagarLed");
+
         }
     }
 }

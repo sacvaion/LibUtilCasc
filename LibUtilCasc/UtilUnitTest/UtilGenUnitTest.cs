@@ -19,6 +19,18 @@ namespace UtilUnitTest
 
 
         [TestMethod]
+        public void CreateIdTransactionError()
+        {
+            //Arrange
+            String numerico;
+            //Act
+            numerico = LibUtilCasc.UtilGen.CreateIdTransaction(DateTime.Now);
+            numerico = null;
+            //Assert
+            Assert.IsNull(numerico);
+        }
+
+        [TestMethod]
         public void ExtraerNumericoSuccess()
         {
             //Arrange
@@ -30,3 +42,4 @@ namespace UtilUnitTest
         }
     }
 }
+

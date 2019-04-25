@@ -29,3 +29,4 @@ D:\GitHub\LibUtilCasc\LibUtilCasc\LibUtilCasc\bin\Debug\Newtonsoft.Json.xml
 D:\GitHub\LibUtilCasc\LibUtilCasc\LibUtilCasc\obj\Debug\LibUtilCasc.csproj.CoreCompileInputs.cache
 D:\GitHub\LibUtilCasc\LibUtilCasc\LibUtilCasc\obj\Debug\LibUtilCasc.dll
 D:\GitHub\LibUtilCasc\LibUtilCasc\LibUtilCasc\obj\Debug\LibUtilCasc.pdb
+D:\GitHub\LibUtilCasc\LibUtilCasc\LibUtilCasc\obj\Debug\LibUtilCasc.csprojResolveAssemblyReference.cache

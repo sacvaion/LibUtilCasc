@@ -63,7 +63,6 @@ namespace LibUtilCasc
             int posicion = 0;
 
             //NoDocumentoV = idTipoDocumento;
-
             foreach (char item in VNoDocumento)
             {
                 Numerico = decimal.TryParse(item.ToString(), out aux);
@@ -109,7 +108,6 @@ namespace LibUtilCasc
             {
                 return Convert.ToDateTime(fecha);
             }
-
         }
 
         /// <summary>

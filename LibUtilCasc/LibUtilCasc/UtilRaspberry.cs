@@ -22,7 +22,7 @@ namespace LibUtilCasc
         {
             try
             {
-                Inic();
+                Init();
                 PasswordAuthenticationMethod authMethod = new PasswordAuthenticationMethod(comanRasp["Username"], comanRasp["Password"]);
                 ConnectionInfo connectionInfo = new ConnectionInfo(IpComedor, comanRasp["Username"], authMethod);
                 using (var ssh = new SshClient(connectionInfo))
@@ -43,7 +43,7 @@ namespace LibUtilCasc
         {
             try
             {
-                Inic();
+                Init();
                 PasswordAuthenticationMethod authMethod = new PasswordAuthenticationMethod(comanRasp["Username"], comanRasp["Password"]);
                 ConnectionInfo connectionInfo = new ConnectionInfo(IpComedor, comanRasp["Username"], authMethod);
                 using (var ssh = new SshClient(connectionInfo))
@@ -61,7 +61,7 @@ namespace LibUtilCasc
             }
         }
 
-        public static void Inic()
+        public static void Init()
         {
             if(comanRasp.Count()<=0)
             {

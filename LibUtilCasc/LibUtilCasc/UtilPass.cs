@@ -13,7 +13,6 @@ namespace LibUtilCasc
 
         public static string Encriptar(string Password)
         {
-
             if (Password.Length > 0)
             {
                 string pass = "";

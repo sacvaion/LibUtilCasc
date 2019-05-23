@@ -17,7 +17,12 @@ namespace LibUtilCasc
         static string apagarMotor = "sudo python /var/www/html/leds/gpio/4/downmotor.py";
         */
         static Dictionary<string, string> comanRasp = new Dictionary<string, string>();
-
+        /// <summary>
+        /// Se conecta a la raspberry para encender
+        /// </summary>
+        /// <param name="IpComedor"></param>
+        /// <param name="comando1"></param>
+        /// <returns></returns>
         public static string ConectarRaspberry(string IpComedor,string comando1)
         {
             try
@@ -38,7 +43,13 @@ namespace LibUtilCasc
                 return "Error enviando Comando : " + ex.ToString();
             }
         }
-
+        /// <summary>
+        /// Se conecta a la raspberry para encender y apagar el led
+        /// </summary>
+        /// <param name="IpComedor"></param>
+        /// <param name="comando1"></param>
+        /// <param name="comando2"></param>
+        /// <returns></returns>
         public static string ConectarRaspberry(string IpComedor, string comando1, string comando2)
         {
             try
@@ -60,7 +71,9 @@ namespace LibUtilCasc
                 return "Error enviando Comando : " + ex.ToString();
             }
         }
-
+        /// <summary>
+        /// Inicializo variables
+        /// </summary>
         public static void Init()
         {
             if(comanRasp.Count()<=0)

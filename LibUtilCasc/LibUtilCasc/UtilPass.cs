@@ -10,7 +10,11 @@ namespace LibUtilCasc
     {
         private const string Patron_busqueda = "tvwxyz12345OPQRSTVWXYZabcdlmnñopqrs67890ABCDefghijkEFGHIJKLMNÑ";
         private const string Patron_encripta = "tvwxyz12345OPQRSTVWXYZabcdlmnñopqrs67890ABCDefghijkEFGHIJKLMNÑ";
-
+        /// <summary>
+        /// Encriptar un string
+        /// </summary>
+        /// <param name="Password"></param>
+        /// <returns></returns>
         public static string Encriptar(string Password)
         {
             if (Password.Length > 0)
@@ -27,7 +31,13 @@ namespace LibUtilCasc
             else
                 return "";
         }
-
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <param name="valor"></param>
+        /// <param name="tamañoString"></param>
+        /// <param name="UbicaLetra"></param>
+        /// <returns></returns>
         public static string EncriptarCaracter(string valor, int tamañoString, int UbicaLetra)
         {
             int indice;
@@ -40,7 +50,11 @@ namespace LibUtilCasc
             }
             return valor;
         }
-
+        /// <summary>
+        /// DesEncriptar un string
+        /// </summary>
+        /// <param name="Password"></param>
+        /// <returns></returns>
         public static string DesEncriptar(string Password)
         {
             string pass = "";
@@ -52,7 +66,13 @@ namespace LibUtilCasc
             }
             return pass;
         }
-
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <param name="valor"></param>
+        /// <param name="tamañoString"></param>
+        /// <param name="UbicaLetra"></param>
+        /// <returns></returns>
         public static string DescriptarCaracter(string valor, int tamañoString, int UbicaLetra)
         {
             int indice;

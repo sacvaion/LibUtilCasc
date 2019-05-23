@@ -9,7 +9,11 @@ namespace LibUtilCasc
 {
     public class UtilImage
     {
-        //Conviete HexaDecimal a Arreglo de Byte
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <param name="hex"></param>
+        /// <returns></returns>
         public byte[] hex2bin(String hex)
         {
 
@@ -30,7 +34,11 @@ namespace LibUtilCasc
                 return bytes;
             }
         }
-
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <param name="base64String"></param>
+        /// <returns></returns>
         public Image Base64ToImage(string base64String)
         {
             // Convert Base64 String to byte[]
@@ -44,7 +52,11 @@ namespace LibUtilCasc
                 return image;
             }
         }
-
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <param name="imageBytes"></param>
+        /// <returns></returns>
         public Image Base64ToImage2(byte[] imageBytes)
         {
             // Convert byte[] to Image
@@ -54,7 +66,11 @@ namespace LibUtilCasc
                 return image;
             }
         }
-
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <param name="bytes"></param>
+        /// <returns></returns>
         public String bin2Hex1(byte[] bytes)
         {
             StringBuilder hex = new StringBuilder(bytes.Length * 2);
@@ -78,6 +94,11 @@ namespace LibUtilCasc
         }
 
         //Convertir de Array a Hexa
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <param name="ba"></param>
+        /// <returns></returns>
         public string ByteArrayToString(byte[] ba)
         {
             StringBuilder hex = new StringBuilder(ba.Length * 2);
@@ -113,6 +134,11 @@ namespace LibUtilCasc
 
 
         //Extraer de System.Drawing.Image el mapa de bytes
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <param name="imageIn"></param>
+        /// <returns></returns>
         public byte[] imageToByteArray(System.Drawing.Image imageIn)
         {
             using (var ms = new MemoryStream())
@@ -123,6 +149,11 @@ namespace LibUtilCasc
         }
 
         //Extraer de Image el mapa de bytes
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <param name="img"></param>
+        /// <returns></returns>
         public byte[] Convertir_Imagen_Bytes(Image img)
         {
             string sTemp = Path.GetTempFileName();
@@ -136,7 +167,11 @@ namespace LibUtilCasc
             fs.Close();
             return bytes;
         }
-
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <param name="files"></param>
+        /// <returns></returns>
         public static System.Drawing.Bitmap CombineBitmap(string[] files)
         {
             //read all images into memory

@@ -1,0 +1,12 @@
+C:\Git\LibUtilCasc\LibUtilCasc\LibUtilCasc\bin\Release\Lib\Renci.SshNet.dll
+C:\Git\LibUtilCasc\LibUtilCasc\LibUtilCasc\bin\Release\LibUtilCasc.dll
+C:\Git\LibUtilCasc\LibUtilCasc\LibUtilCasc\bin\Release\LibUtilCasc.pdb
+C:\Git\LibUtilCasc\LibUtilCasc\LibUtilCasc\bin\Release\Newtonsoft.Json.dll
+C:\Git\LibUtilCasc\LibUtilCasc\LibUtilCasc\bin\Release\Renci.SshNet.dll
+C:\Git\LibUtilCasc\LibUtilCasc\LibUtilCasc\bin\Release\Vintasoft.Barcode.dll
+C:\Git\LibUtilCasc\LibUtilCasc\LibUtilCasc\bin\Release\Newtonsoft.Json.xml
+C:\Git\LibUtilCasc\LibUtilCasc\LibUtilCasc\obj\Release\LibUtilCasc.csproj.CoreCompileInputs.cache
+C:\Git\LibUtilCasc\LibUtilCasc\LibUtilCasc\obj\Release\LibUtilCasc.csproj.CopyComplete
+C:\Git\LibUtilCasc\LibUtilCasc\LibUtilCasc\obj\Release\LibUtilCasc.dll
+C:\Git\LibUtilCasc\LibUtilCasc\LibUtilCasc\obj\Release\LibUtilCasc.pdb
+C:\Git\LibUtilCasc\LibUtilCasc\LibUtilCasc\obj\Release\LibUtilCasc.csprojAssemblyReference.cache

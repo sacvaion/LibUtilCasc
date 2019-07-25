@@ -34,6 +34,7 @@ namespace LibUtilCasc
                 return bytes;
             }
         }
+
         /// <summary>
         /// 
         /// </summary>
@@ -52,6 +53,7 @@ namespace LibUtilCasc
                 return image;
             }
         }
+
         /// <summary>
         /// 
         /// </summary>
@@ -66,6 +68,7 @@ namespace LibUtilCasc
                 return image;
             }
         }
+
         /// <summary>
         /// 
         /// </summary>
@@ -93,9 +96,8 @@ namespace LibUtilCasc
             return hex.ToString().Replace("-", "");
         }
 
-        //Convertir de Array a Hexa
         /// <summary>
-        /// 
+        /// Convertir de Array a Hexa
         /// </summary>
         /// <param name="ba"></param>
         /// <returns></returns>
@@ -132,10 +134,8 @@ namespace LibUtilCasc
             return imagen;
         }
 
-
-        //Extraer de System.Drawing.Image el mapa de bytes
         /// <summary>
-        /// 
+        /// Extraer de System.Drawing.Image el mapa de bytes
         /// </summary>
         /// <param name="imageIn"></param>
         /// <returns></returns>
@@ -148,9 +148,8 @@ namespace LibUtilCasc
             }
         }
 
-        //Extraer de Image el mapa de bytes
         /// <summary>
-        /// 
+        /// Extraer de Image el mapa de bytes
         /// </summary>
         /// <param name="img"></param>
         /// <returns></returns>
@@ -167,6 +166,7 @@ namespace LibUtilCasc
             fs.Close();
             return bytes;
         }
+
         /// <summary>
         /// 
         /// </summary>

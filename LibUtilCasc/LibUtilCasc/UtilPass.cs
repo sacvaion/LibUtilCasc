@@ -31,6 +31,7 @@ namespace LibUtilCasc
             else
                 return "";
         }
+        
         /// <summary>
         /// 
         /// </summary>
@@ -50,6 +51,7 @@ namespace LibUtilCasc
             }
             return valor;
         }
+        
         /// <summary>
         /// DesEncriptar un string
         /// </summary>

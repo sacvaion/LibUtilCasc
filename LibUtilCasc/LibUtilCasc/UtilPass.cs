@@ -8,8 +8,8 @@ namespace LibUtilCasc
 {
     public class UtilPass
     {
-        private const string Patron_busqueda = "tvwxyz12345OPQRSTVWXYZabcdlmnñopqrs67890ABCDefghijkEFGHIJKLMNÑ";
-        private const string Patron_encripta = "tvwxyz12345OPQRSTVWXYZabcdlmnñopqrs67890ABCDefghijkEFGHIJKLMNÑ";
+        private const string Patron_busqueda = "tvwxyz12345OPQRSTVWXYZabcdlmnñopqrs67890ABCDefghijkEFGHIJKLMNÑ;";
+        private const string Patron_encripta = "tvwxyz12345OPQRSTVWXYZabcdlmnñopqrs67890ABCDefghijkEFGHIJKLMNÑ;";
         /// <summary>
         /// Encriptar un string
         /// </summary>
@@ -69,7 +69,7 @@ namespace LibUtilCasc
             return pass;
         }
         /// <summary>
-        /// 
+        /// DescriptarCaracter
         /// </summary>
         /// <param name="valor"></param>
         /// <param name="tamañoString"></param>

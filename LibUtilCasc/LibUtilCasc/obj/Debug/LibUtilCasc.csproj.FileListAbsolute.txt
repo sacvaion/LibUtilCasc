@@ -53,3 +53,4 @@ D:\Git\LibUtilCasc\LibUtilCasc\LibUtilCasc\obj\Debug\LibUtilCasc.csproj.CoreComp
 D:\Git\LibUtilCasc\LibUtilCasc\LibUtilCasc\obj\Debug\LibUtilCasc.csproj.CopyComplete
 D:\Git\LibUtilCasc\LibUtilCasc\LibUtilCasc\obj\Debug\LibUtilCasc.dll
 D:\Git\LibUtilCasc\LibUtilCasc\LibUtilCasc\obj\Debug\LibUtilCasc.pdb
+D:\Git\LibUtilCasc\LibUtilCasc\LibUtilCasc\obj\Debug\LibUtilCasc.csproj.AssemblyReference.cache

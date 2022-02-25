@@ -4,6 +4,7 @@ using System.Collections.Generic;
 using System.Globalization;
 using System.Linq;
 using System.Text;
+using System.Text.RegularExpressions;
 using System.Threading;
 using System.Threading.Tasks;
 
@@ -188,6 +189,77 @@ namespace LibUtilCasc
             {
                 return e.Message;
             }
+        }
+        
+        public static int GetVehicleType(string sPlate)
+        {
+            try
+            {
+                string sPattern = @"^[A-Z]{3}\w*";
+                string sPattern2 = @"^[A-Z]{1}\w*";
+                string sPatternNum = @"\b[0-9]{3}\w*\b";
+                string sPatternNum2 = @"\b[0-9]{2}\w*\b";
+                string sInput = sPlate;
+                string sParteAlfabetica = "", sParteNumerica = "";
+
+                bool bAlfabetica = false, bNumerica = false;
+                if (sInput.Length == 5 || sInput.Length == 6)
+                {
+                    sParteAlfabetica = sInput.Substring(0, 3);
+                    foreach (Match match in Regex.Matches(sInput, sPattern))
+                        bAlfabetica = true;
+
+                    if (sInput.Length == 6)
+                    {
+                        if (bAlfabetica)
+                        {
+                            sParteNumerica = sInput.Substring(3, 3);
+                            foreach (Match match in Regex.Matches(sParteNumerica, sPatternNum))
+                                bNumerica = true;
+
+                            if (bNumerica)
+                                return 1;
+                            else
+                            {
+                                //Valida si termina en letra y los otros dos son numerico
+                                sParteNumerica = sInput.Substring(3, 2);
+                                foreach (Match match in Regex.Matches(sParteNumerica, sPatternNum2))
+                                    bNumerica = true;
+
+                                if (bNumerica)
+                                {
+                                    //Valida ultimo digito
+                                    sParteAlfabetica = sInput.Substring(5, 1);
+                                    foreach (Match match in Regex.Matches(sParteAlfabetica, sPattern2))
+                                        return 2;
+                                }
+                                else
+                                    return 0;
+                            }
+                        }
+                    }
+                    else if (sInput.Length == 5)
+                    {
+                        //valida q los dos ultimos sean letras
+                        sParteNumerica = sInput.Substring(3, 2);
+                        foreach (Match match in Regex.Matches(sParteNumerica, sPatternNum2))
+                            bNumerica = true;
+                        if (bNumerica)
+                            return 2;
+                        else
+                            return 0;
+                    }
+                    else
+                        return 0;
+                }
+                else 
+                    return 0;
+            }
+            catch (Exception ex)
+            {
+                return 0;
+            }
+            return 0;
         }
     }
 }

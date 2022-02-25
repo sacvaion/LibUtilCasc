@@ -55,6 +55,7 @@
   <ItemGroup>
     <Compile Include="Logger.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="UtilEncription.cs" />
     <Compile Include="UtilGen.cs" />
     <Compile Include="UtilImage.cs" />
     <Compile Include="UtilNetWork.cs" />

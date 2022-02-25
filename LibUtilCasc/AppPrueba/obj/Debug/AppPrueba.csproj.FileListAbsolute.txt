@@ -116,7 +116,6 @@ D:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Security.Cryptography.
 D:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\Renci.SshNet.dll
 D:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\LibUtilCasc.pdb
 D:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\Newtonsoft.Json.xml
-D:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\obj\Debug\AppPrueba.csprojAssemblyReference.cache
 D:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\obj\Debug\AppPrueba.Form1.resources
 D:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\obj\Debug\AppPrueba.Properties.Resources.resources
 D:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\obj\Debug\AppPrueba.csproj.GenerateResource.cache
@@ -124,3 +123,5 @@ D:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\obj\Debug\AppPrueba.csproj.CoreCompileI
 D:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\obj\Debug\AppPrueba.csproj.CopyComplete
 D:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\obj\Debug\AppPrueba.exe
 D:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\obj\Debug\AppPrueba.pdb
+D:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\obj\Debug\AppPrueba.csproj.AssemblyReference.cache
+D:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\obj\Debug\AppPrueba.csproj.SuggestedBindingRedirects.cache

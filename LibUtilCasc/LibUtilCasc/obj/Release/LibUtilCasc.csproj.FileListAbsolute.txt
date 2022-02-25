@@ -10,3 +10,14 @@ C:\Git\LibUtilCasc\LibUtilCasc\LibUtilCasc\obj\Release\LibUtilCasc.csproj.CopyCo
 C:\Git\LibUtilCasc\LibUtilCasc\LibUtilCasc\obj\Release\LibUtilCasc.dll
 C:\Git\LibUtilCasc\LibUtilCasc\LibUtilCasc\obj\Release\LibUtilCasc.pdb
 C:\Git\LibUtilCasc\LibUtilCasc\LibUtilCasc\obj\Release\LibUtilCasc.csprojAssemblyReference.cache
+D:\Git\LibUtilCasc\LibUtilCasc\LibUtilCasc\bin\Release\Lib\Renci.SshNet.dll
+D:\Git\LibUtilCasc\LibUtilCasc\LibUtilCasc\bin\Release\LibUtilCasc.dll
+D:\Git\LibUtilCasc\LibUtilCasc\LibUtilCasc\bin\Release\LibUtilCasc.pdb
+D:\Git\LibUtilCasc\LibUtilCasc\LibUtilCasc\bin\Release\Newtonsoft.Json.dll
+D:\Git\LibUtilCasc\LibUtilCasc\LibUtilCasc\bin\Release\Renci.SshNet.dll
+D:\Git\LibUtilCasc\LibUtilCasc\LibUtilCasc\bin\Release\Vintasoft.Barcode.dll
+D:\Git\LibUtilCasc\LibUtilCasc\LibUtilCasc\bin\Release\Newtonsoft.Json.xml
+D:\Git\LibUtilCasc\LibUtilCasc\LibUtilCasc\obj\Release\LibUtilCasc.csproj.CoreCompileInputs.cache
+D:\Git\LibUtilCasc\LibUtilCasc\LibUtilCasc\obj\Release\LibUtilCasc.csproj.CopyComplete
+D:\Git\LibUtilCasc\LibUtilCasc\LibUtilCasc\obj\Release\LibUtilCasc.dll
+D:\Git\LibUtilCasc\LibUtilCasc\LibUtilCasc\obj\Release\LibUtilCasc.pdb

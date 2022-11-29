@@ -20,8 +20,10 @@ namespace LibUtilCasc
         public static string GetKey(string key)
         {
             string keySett = System.Configuration.ConfigurationManager.AppSettings[key];
-            if (keySett == null)
+
+            if (keySett == null) { 
                 keySett = string.Empty;
+            }
 
             return keySett;
         }

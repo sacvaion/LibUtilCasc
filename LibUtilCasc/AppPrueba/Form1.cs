@@ -25,8 +25,8 @@ namespace AppPrueba
             lblResultado.Text = "";
             //decimal x = UtilGen.ExtraerNumerico("123ASD36589", "2");
             //lblResultado.Text = "Cadena= 123ASD36589  Funcion Extraer Numercio: " + x.ToString();
-            string clave = UtilPass.Encriptar(";");
-            lblResultado.Text += "\nClave en Claro: C4rl0s.2015  Funcion Encriptar " + clave.ToString();
+            string clave = UtilPass.Encriptar("Carlos");
+            lblResultado.Text += "\nClave en Claro: Carlos  Funcion Encriptar " + clave.ToString();
             string claveEnClaro = UtilPass.DesEncriptar(clave);
             lblResultado.Text += "\nClave Cifrada: "+ clave + "  Funcion DesEncriptar " + claveEnClaro.ToString();
             /*

@@ -61,7 +61,6 @@ E:\Git\LibUtilCasc\LibUtilCasc\LibUtilCasc\bin\Debug\Newtonsoft.Json.dll
 E:\Git\LibUtilCasc\LibUtilCasc\LibUtilCasc\bin\Debug\Renci.SshNet.dll
 E:\Git\LibUtilCasc\LibUtilCasc\LibUtilCasc\bin\Debug\Vintasoft.Barcode.dll
 E:\Git\LibUtilCasc\LibUtilCasc\LibUtilCasc\bin\Debug\Newtonsoft.Json.xml
-E:\Git\LibUtilCasc\LibUtilCasc\LibUtilCasc\obj\Debug\LibUtilCasc.csproj.AssemblyReference.cache
 E:\Git\LibUtilCasc\LibUtilCasc\LibUtilCasc\obj\Debug\LibUtilCasc.csproj.CoreCompileInputs.cache
 E:\Git\LibUtilCasc\LibUtilCasc\LibUtilCasc\obj\Debug\LibUtilCasc.csproj.CopyComplete
 E:\Git\LibUtilCasc\LibUtilCasc\LibUtilCasc\obj\Debug\LibUtilCasc.dll

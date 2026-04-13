@@ -213,8 +213,8 @@ namespace LibUtilCasc
         
         /// <summary>
         /// Identifica el tipo de placa de vehículo según su formato.
-        /// Tipo 1: AAA-###  (3 letras seguidas de 3 números) = longitud 6
-        /// Tipo 2: AAA-##L  (3 letras, 2 números y 1 letra final) = longitud 5 o 6
+        /// Tipo 1: AAA###  (3 letras + 3 números) = longitud 6
+        /// Tipo 2: AAA##L  (3 letras + 2 números + 1 letra) o AA## = longitud 5
         /// Tipo 0: Formato inválido
         /// </summary>
         /// <param name="sPlate">Número de placa sin formato (solo caracteres alfanuméricos)</param>
@@ -226,65 +226,33 @@ namespace LibUtilCasc
                 if (string.IsNullOrWhiteSpace(sPlate))
                     return 0;
 
-                string sPattern = @"^[A-Z]{3}\w*";
-                string sPattern2 = @"^[A-Z]{1}\w*";
-                string sPatternNum = @"\b[0-9]{3}\w*\b";
-                string sPatternNum2 = @"\b[0-9]{2}\w*\b";
-                string sInput = sPlate.ToUpper();
-                string sParteAlfabetica = "", sParteNumerica = "";
+                string sInput = sPlate.ToUpper().Trim();
 
-                bool bAlfabetica = false, bNumerica = false;
-                if (sInput.Length == 5 || sInput.Length == 6)
-                {
-                    sParteAlfabetica = sInput.Substring(0, 3);
-                    foreach (Match match in Regex.Matches(sInput, sPattern))
-                        bAlfabetica = true;
-
-                    if (sInput.Length == 6)
-                    {
-                        if (bAlfabetica)
-                        {
-                            sParteNumerica = sInput.Substring(3, 3);
-                            foreach (Match match in Regex.Matches(sParteNumerica, sPatternNum))
-                                bNumerica = true;
-
-                            if (bNumerica)
-                                return 1; // Tipo AAA###
-                            else
-                            {
-                                // Valida si termina en letra y los otros dos son numéricos
-                                sParteNumerica = sInput.Substring(3, 2);
-                                foreach (Match match in Regex.Matches(sParteNumerica, sPatternNum2))
-                                    bNumerica = true;
-
-                                if (bNumerica)
-                                {
-                                    // Valida último dígito
-                                    sParteAlfabetica = sInput.Substring(5, 1);
-                                    foreach (Match match in Regex.Matches(sParteAlfabetica, sPattern2))
-                                        return 2; // Tipo AAA##L
-                                }
-                                else
-                                    return 0;
-                            }
-                        }
-                    }
-                    else if (sInput.Length == 5)
-                    {
-                        // Valida que los dos últimos sean números
-                        sParteNumerica = sInput.Substring(3, 2);
-                        foreach (Match match in Regex.Matches(sParteNumerica, sPatternNum2))
-                            bNumerica = true;
-                        if (bNumerica)
-                            return 2; // Tipo AA##
-                        else
-                            return 0;
-                    }
-                    else
-                        return 0;
-                }
-                else
+                // Solo longitudes 5 o 6 son válidas
+                if (sInput.Length != 5 && sInput.Length != 6)
                     return 0;
+
+                // Primeros 3 caracteres deben ser letras (AAA)
+                if (!Regex.IsMatch(sInput.Substring(0, 3), @"^[A-Z]{3}$"))
+                    return 0;
+
+                // Longitud 6: AAA + 3 números
+                if (sInput.Length == 6)
+                {
+                    if (Regex.IsMatch(sInput.Substring(3, 3), @"^\d{3}$"))
+                        return 1; // Tipo AAA###
+                    else
+                        return 0; // No coincide
+                }
+
+                // Longitud 5: AAA + 2 números (+ letra opcional)
+                if (sInput.Length == 5)
+                {
+                    if (Regex.IsMatch(sInput.Substring(3, 2), @"^\d{2}$"))
+                        return 2; // Tipo AA## o AAA##
+                    else
+                        return 0; // No coincide
+                }
 
                 return 0;
             }

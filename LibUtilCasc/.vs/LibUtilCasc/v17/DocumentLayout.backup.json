@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Dev\\Git\\LibUtilCasc\\LibUtilCasc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C6B2A777-B7B5-4C62-AB99-EC02A5FF4D06}|AppPrueba\\AppPrueba.csproj|f:\\dev\\git\\libutilcasc\\libutilcasc\\appprueba\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6B2A777-B7B5-4C62-AB99-EC02A5FF4D06}|AppPrueba\\AppPrueba.csproj|solutionrelative:appprueba\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A231891-7F25-4511-8504-09784A933479}|LibUtilCasc\\LibUtilCasc.csproj|F:\\Dev\\Git\\LibUtilCasc\\LibUtilCasc\\libutilcasc\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A231891-7F25-4511-8504-09784A933479}|LibUtilCasc\\LibUtilCasc.csproj|solutionrelative:libutilcasc\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6B2A777-B7B5-4C62-AB99-EC02A5FF4D06}|AppPrueba\\AppPrueba.csproj|F:\\Dev\\Git\\LibUtilCasc\\LibUtilCasc\\appprueba\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C6B2A777-B7B5-4C62-AB99-EC02A5FF4D06}|AppPrueba\\AppPrueba.csproj|solutionrelative:appprueba\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 473,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c478b6ac-54a8-3bd5-bc46-494f58b422c9}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Logger.cs",
+              "DocumentMoniker": "F:\\Dev\\Git\\LibUtilCasc\\LibUtilCasc\\LibUtilCasc\\Logger.cs",
+              "RelativeDocumentMoniker": "LibUtilCasc\\Logger.cs",
+              "ToolTip": "F:\\Dev\\Git\\LibUtilCasc\\LibUtilCasc\\LibUtilCasc\\Logger.cs",
+              "RelativeToolTip": "LibUtilCasc\\Logger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T00:48:18.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "F:\\Dev\\Git\\LibUtilCasc\\LibUtilCasc\\AppPrueba\\Form1.cs",
+              "RelativeDocumentMoniker": "AppPrueba\\Form1.cs",
+              "ToolTip": "F:\\Dev\\Git\\LibUtilCasc\\LibUtilCasc\\AppPrueba\\Form1.cs [Design]",
+              "RelativeToolTip": "AppPrueba\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T00:24:09.619Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "F:\\Dev\\Git\\LibUtilCasc\\LibUtilCasc\\AppPrueba\\Form1.cs",
+              "RelativeDocumentMoniker": "AppPrueba\\Form1.cs",
+              "ToolTip": "F:\\Dev\\Git\\LibUtilCasc\\LibUtilCasc\\AppPrueba\\Form1.cs",
+              "RelativeToolTip": "AppPrueba\\Form1.cs",
+              "ViewState": "AgIAAGwBAAAAAAAAAIAwwHsBAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T00:22:25.768Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 473,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

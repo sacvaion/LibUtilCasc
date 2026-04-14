@@ -1,259 +1,135 @@
-C:\Users\CARLOS\source\repos\LibUtilCasc\AppPrueba\bin\Debug\AppPrueba.exe.config
-C:\Users\CARLOS\source\repos\LibUtilCasc\AppPrueba\bin\Debug\AppPrueba.exe
-C:\Users\CARLOS\source\repos\LibUtilCasc\AppPrueba\bin\Debug\AppPrueba.pdb
-C:\Users\CARLOS\source\repos\LibUtilCasc\AppPrueba\bin\Debug\LibUtilCasc.dll
-C:\Users\CARLOS\source\repos\LibUtilCasc\AppPrueba\bin\Debug\LibUtilCasc.pdb
-C:\Users\CARLOS\source\repos\LibUtilCasc\AppPrueba\obj\Debug\AppPrueba.csprojResolveAssemblyReference.cache
-C:\Users\CARLOS\source\repos\LibUtilCasc\AppPrueba\obj\Debug\AppPrueba.Form1.resources
-C:\Users\CARLOS\source\repos\LibUtilCasc\AppPrueba\obj\Debug\AppPrueba.Properties.Resources.resources
-C:\Users\CARLOS\source\repos\LibUtilCasc\AppPrueba\obj\Debug\AppPrueba.csproj.GenerateResource.Cache
-C:\Users\CARLOS\source\repos\LibUtilCasc\AppPrueba\obj\Debug\AppPrueba.csproj.CoreCompileInputs.cache
-C:\Users\CARLOS\source\repos\LibUtilCasc\AppPrueba\obj\Debug\AppPrueba.exe
-C:\Users\CARLOS\source\repos\LibUtilCasc\AppPrueba\obj\Debug\AppPrueba.pdb
-C:\Users\carlos.siabato\Dropbox\PROGRAMACION\Proyectos Lib\LibUtilCasc\AppPrueba\bin\Debug\AppPrueba.exe.config
-C:\Users\carlos.siabato\Dropbox\PROGRAMACION\Proyectos Lib\LibUtilCasc\AppPrueba\bin\Debug\AppPrueba.exe
-C:\Users\carlos.siabato\Dropbox\PROGRAMACION\Proyectos Lib\LibUtilCasc\AppPrueba\bin\Debug\AppPrueba.pdb
-C:\Users\carlos.siabato\Dropbox\PROGRAMACION\Proyectos Lib\LibUtilCasc\AppPrueba\bin\Debug\LibUtilCasc.dll
-C:\Users\carlos.siabato\Dropbox\PROGRAMACION\Proyectos Lib\LibUtilCasc\AppPrueba\bin\Debug\LibUtilCasc.pdb
-C:\Users\carlos.siabato\Dropbox\PROGRAMACION\Proyectos Lib\LibUtilCasc\AppPrueba\obj\Debug\AppPrueba.csprojResolveAssemblyReference.cache
-C:\Users\carlos.siabato\Dropbox\PROGRAMACION\Proyectos Lib\LibUtilCasc\AppPrueba\obj\Debug\AppPrueba.Form1.resources
-C:\Users\carlos.siabato\Dropbox\PROGRAMACION\Proyectos Lib\LibUtilCasc\AppPrueba\obj\Debug\AppPrueba.Properties.Resources.resources
-C:\Users\carlos.siabato\Dropbox\PROGRAMACION\Proyectos Lib\LibUtilCasc\AppPrueba\obj\Debug\AppPrueba.csproj.GenerateResource.Cache
-C:\Users\carlos.siabato\Dropbox\PROGRAMACION\Proyectos Lib\LibUtilCasc\AppPrueba\obj\Debug\AppPrueba.csproj.CoreCompileInputs.cache
-C:\Users\carlos.siabato\Dropbox\PROGRAMACION\Proyectos Lib\LibUtilCasc\AppPrueba\obj\Debug\AppPrueba.exe
-C:\Users\carlos.siabato\Dropbox\PROGRAMACION\Proyectos Lib\LibUtilCasc\AppPrueba\obj\Debug\AppPrueba.pdb
-C:\Users\carlos.siabato\Dropbox\PROGRAMACION\Proyectos Lib\LibUtilCasc\AppPrueba\bin\Debug\Vintasoft.Barcode.dll
-C:\Users\carlos.siabato\Dropbox\PROGRAMACION\Proyectos Lib\LibUtilCasc\AppPrueba\bin\Debug\Newtonsoft.Json.dll
-C:\Users\carlos.siabato\Dropbox\PROGRAMACION\Proyectos Lib\LibUtilCasc\AppPrueba\bin\Debug\RestSharp.dll
-C:\Users\carlos.siabato\Dropbox\PROGRAMACION\Proyectos Lib\LibUtilCasc\AppPrueba\bin\Debug\System.Net.Http.dll
-C:\Users\carlos.siabato\Dropbox\PROGRAMACION\Proyectos Lib\LibUtilCasc\AppPrueba\bin\Debug\System.Runtime.Serialization.Primitives.dll
-C:\Users\carlos.siabato\Dropbox\PROGRAMACION\Proyectos Lib\LibUtilCasc\AppPrueba\bin\Debug\System.Security.Cryptography.Algorithms.dll
-C:\Users\carlos.siabato\Dropbox\PROGRAMACION\Proyectos Lib\LibUtilCasc\AppPrueba\bin\Debug\System.Security.Cryptography.Encoding.dll
-C:\Users\carlos.siabato\Dropbox\PROGRAMACION\Proyectos Lib\LibUtilCasc\AppPrueba\bin\Debug\System.Security.Cryptography.Primitives.dll
-C:\Users\carlos.siabato\Dropbox\PROGRAMACION\Proyectos Lib\LibUtilCasc\AppPrueba\bin\Debug\System.Security.Cryptography.X509Certificates.dll
-C:\Users\carlos.siabato\Dropbox\PROGRAMACION\Proyectos Lib\LibUtilCasc\AppPrueba\bin\Debug\Newtonsoft.Json.xml
-D:\VS\Proyectos Lib\LibUtilCasc\AppPrueba\bin\Debug\AppPrueba.exe.config
-D:\VS\Proyectos Lib\LibUtilCasc\AppPrueba\bin\Debug\AppPrueba.exe
-D:\VS\Proyectos Lib\LibUtilCasc\AppPrueba\bin\Debug\AppPrueba.pdb
-D:\VS\Proyectos Lib\LibUtilCasc\AppPrueba\bin\Debug\LibUtilCasc.dll
-D:\VS\Proyectos Lib\LibUtilCasc\AppPrueba\bin\Debug\Newtonsoft.Json.dll
-D:\VS\Proyectos Lib\LibUtilCasc\AppPrueba\bin\Debug\RestSharp.dll
-D:\VS\Proyectos Lib\LibUtilCasc\AppPrueba\bin\Debug\System.Net.Http.dll
-D:\VS\Proyectos Lib\LibUtilCasc\AppPrueba\bin\Debug\System.Runtime.Serialization.Primitives.dll
-D:\VS\Proyectos Lib\LibUtilCasc\AppPrueba\bin\Debug\System.Security.Cryptography.Algorithms.dll
-D:\VS\Proyectos Lib\LibUtilCasc\AppPrueba\bin\Debug\System.Security.Cryptography.Encoding.dll
-D:\VS\Proyectos Lib\LibUtilCasc\AppPrueba\bin\Debug\System.Security.Cryptography.Primitives.dll
-D:\VS\Proyectos Lib\LibUtilCasc\AppPrueba\bin\Debug\System.Security.Cryptography.X509Certificates.dll
-D:\VS\Proyectos Lib\LibUtilCasc\AppPrueba\bin\Debug\Vintasoft.Barcode.dll
-D:\VS\Proyectos Lib\LibUtilCasc\AppPrueba\bin\Debug\LibUtilCasc.pdb
-D:\VS\Proyectos Lib\LibUtilCasc\AppPrueba\bin\Debug\Newtonsoft.Json.xml
-D:\VS\Proyectos Lib\LibUtilCasc\AppPrueba\obj\Debug\AppPrueba.csprojResolveAssemblyReference.cache
-D:\VS\Proyectos Lib\LibUtilCasc\AppPrueba\obj\Debug\AppPrueba.Form1.resources
-D:\VS\Proyectos Lib\LibUtilCasc\AppPrueba\obj\Debug\AppPrueba.Properties.Resources.resources
-D:\VS\Proyectos Lib\LibUtilCasc\AppPrueba\obj\Debug\AppPrueba.csproj.GenerateResource.Cache
-D:\VS\Proyectos Lib\LibUtilCasc\AppPrueba\obj\Debug\AppPrueba.exe
-D:\VS\Proyectos Lib\LibUtilCasc\AppPrueba\obj\Debug\AppPrueba.pdb
-D:\GitHub\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\Lib\Renci.SshNet.dll
-D:\GitHub\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\AppPrueba.exe.config
-D:\GitHub\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\AppPrueba.exe
-D:\GitHub\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\AppPrueba.pdb
-D:\GitHub\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\LibUtilCasc.dll
-D:\GitHub\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\Newtonsoft.Json.dll
-D:\GitHub\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\RestSharp.dll
-D:\GitHub\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Net.Http.dll
-D:\GitHub\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Runtime.Serialization.Primitives.dll
-D:\GitHub\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Security.Cryptography.Algorithms.dll
-D:\GitHub\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Security.Cryptography.Encoding.dll
-D:\GitHub\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Security.Cryptography.Primitives.dll
-D:\GitHub\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Security.Cryptography.X509Certificates.dll
-D:\GitHub\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\Renci.SshNet.dll
-D:\GitHub\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\LibUtilCasc.pdb
-D:\GitHub\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\Newtonsoft.Json.xml
-D:\GitHub\LibUtilCasc\LibUtilCasc\AppPrueba\obj\Debug\AppPrueba.csprojResolveAssemblyReference.cache
-D:\GitHub\LibUtilCasc\LibUtilCasc\AppPrueba\obj\Debug\AppPrueba.Form1.resources
-D:\GitHub\LibUtilCasc\LibUtilCasc\AppPrueba\obj\Debug\AppPrueba.Properties.Resources.resources
-D:\GitHub\LibUtilCasc\LibUtilCasc\AppPrueba\obj\Debug\AppPrueba.csproj.GenerateResource.Cache
-D:\GitHub\LibUtilCasc\LibUtilCasc\AppPrueba\obj\Debug\AppPrueba.csproj.CoreCompileInputs.cache
-D:\GitHub\LibUtilCasc\LibUtilCasc\AppPrueba\obj\Debug\AppPrueba.exe
-D:\GitHub\LibUtilCasc\LibUtilCasc\AppPrueba\obj\Debug\AppPrueba.pdb
-C:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\Lib\Renci.SshNet.dll
-C:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\AppPrueba.exe.config
-C:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\AppPrueba.exe
-C:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\AppPrueba.pdb
-C:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\LibUtilCasc.dll
-C:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\Newtonsoft.Json.dll
-C:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\RestSharp.dll
-C:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Net.Http.dll
-C:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Runtime.Serialization.Primitives.dll
-C:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Security.Cryptography.Algorithms.dll
-C:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Security.Cryptography.Encoding.dll
-C:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Security.Cryptography.Primitives.dll
-C:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Security.Cryptography.X509Certificates.dll
-C:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\Renci.SshNet.dll
-C:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\LibUtilCasc.pdb
-C:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\Newtonsoft.Json.xml
-C:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\obj\Debug\AppPrueba.csprojAssemblyReference.cache
-C:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\obj\Debug\AppPrueba.Form1.resources
-C:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\obj\Debug\AppPrueba.Properties.Resources.resources
-C:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\obj\Debug\AppPrueba.csproj.GenerateResource.cache
-C:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\obj\Debug\AppPrueba.csproj.CoreCompileInputs.cache
-C:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\obj\Debug\AppPrueba.csproj.CopyComplete
-C:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\obj\Debug\AppPrueba.exe
-C:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\obj\Debug\AppPrueba.pdb
-D:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\Lib\Renci.SshNet.dll
-D:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\AppPrueba.exe.config
-D:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\AppPrueba.exe
-D:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\AppPrueba.pdb
-D:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\LibUtilCasc.dll
-D:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\Newtonsoft.Json.dll
-D:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\RestSharp.dll
-D:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Net.Http.dll
-D:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Runtime.Serialization.Primitives.dll
-D:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Security.Cryptography.Algorithms.dll
-D:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Security.Cryptography.Encoding.dll
-D:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Security.Cryptography.Primitives.dll
-D:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Security.Cryptography.X509Certificates.dll
-D:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\Renci.SshNet.dll
-D:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\LibUtilCasc.pdb
-D:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\Newtonsoft.Json.xml
-D:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\obj\Debug\AppPrueba.Form1.resources
-D:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\obj\Debug\AppPrueba.Properties.Resources.resources
-D:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\obj\Debug\AppPrueba.csproj.GenerateResource.cache
-D:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\obj\Debug\AppPrueba.csproj.CoreCompileInputs.cache
-D:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\obj\Debug\AppPrueba.csproj.CopyComplete
-D:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\obj\Debug\AppPrueba.exe
-D:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\obj\Debug\AppPrueba.pdb
-D:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\obj\Debug\AppPrueba.csproj.AssemblyReference.cache
-D:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\obj\Debug\AppPrueba.csproj.SuggestedBindingRedirects.cache
-E:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\Lib\Renci.SshNet.dll
-E:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\AppPrueba.exe.config
-E:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\AppPrueba.exe
-E:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\AppPrueba.pdb
-E:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\Microsoft.Win32.Primitives.dll
-E:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\netstandard.dll
-E:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.AppContext.dll
-E:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Collections.Concurrent.dll
-E:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Collections.dll
-E:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Collections.NonGeneric.dll
-E:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Collections.Specialized.dll
-E:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.ComponentModel.dll
-E:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.ComponentModel.EventBasedAsync.dll
-E:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.ComponentModel.Primitives.dll
-E:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.ComponentModel.TypeConverter.dll
-E:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Console.dll
-E:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Data.Common.dll
-E:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Diagnostics.Contracts.dll
-E:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Diagnostics.Debug.dll
-E:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Diagnostics.FileVersionInfo.dll
-E:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Diagnostics.Process.dll
-E:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Diagnostics.StackTrace.dll
-E:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
-E:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Diagnostics.Tools.dll
-E:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Diagnostics.TraceSource.dll
-E:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Diagnostics.Tracing.dll
-E:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Drawing.Primitives.dll
-E:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Dynamic.Runtime.dll
-E:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Globalization.Calendars.dll
-E:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Globalization.dll
-E:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Globalization.Extensions.dll
-E:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.IO.Compression.dll
-E:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.IO.Compression.ZipFile.dll
-E:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.IO.dll
-E:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.IO.FileSystem.dll
-E:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.IO.FileSystem.DriveInfo.dll
-E:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.IO.FileSystem.Primitives.dll
-E:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.IO.FileSystem.Watcher.dll
-E:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.IO.IsolatedStorage.dll
-E:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.IO.MemoryMappedFiles.dll
-E:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.IO.Pipes.dll
-E:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.IO.UnmanagedMemoryStream.dll
-E:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Linq.dll
-E:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Linq.Expressions.dll
-E:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Linq.Parallel.dll
-E:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Linq.Queryable.dll
-E:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Net.Http.dll
-E:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Net.NameResolution.dll
-E:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Net.NetworkInformation.dll
-E:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Net.Ping.dll
-E:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Net.Primitives.dll
-E:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Net.Requests.dll
-E:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Net.Security.dll
-E:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Net.Sockets.dll
-E:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Net.WebHeaderCollection.dll
-E:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Net.WebSockets.Client.dll
-E:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Net.WebSockets.dll
-E:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.ObjectModel.dll
-E:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Reflection.dll
-E:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Reflection.Extensions.dll
-E:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Reflection.Primitives.dll
-E:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Resources.Reader.dll
-E:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Resources.ResourceManager.dll
-E:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Resources.Writer.dll
-E:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
-E:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Runtime.dll
-E:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Runtime.Extensions.dll
-E:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Runtime.Handles.dll
-E:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Runtime.InteropServices.dll
-E:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
-E:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Runtime.Numerics.dll
-E:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Runtime.Serialization.Formatters.dll
-E:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Runtime.Serialization.Json.dll
-E:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Runtime.Serialization.Primitives.dll
-E:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Runtime.Serialization.Xml.dll
-E:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Security.Claims.dll
-E:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Security.Cryptography.Algorithms.dll
-E:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Security.Cryptography.Csp.dll
-E:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Security.Cryptography.Encoding.dll
-E:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Security.Cryptography.Primitives.dll
-E:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Security.Cryptography.X509Certificates.dll
-E:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Security.Principal.dll
-E:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Security.SecureString.dll
-E:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Text.Encoding.dll
-E:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Text.Encoding.Extensions.dll
-E:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Text.RegularExpressions.dll
-E:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Threading.dll
-E:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Threading.Overlapped.dll
-E:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Threading.Tasks.dll
-E:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Threading.Tasks.Parallel.dll
-E:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Threading.Thread.dll
-E:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Threading.ThreadPool.dll
-E:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Threading.Timer.dll
-E:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.ValueTuple.dll
-E:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Xml.ReaderWriter.dll
-E:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Xml.XDocument.dll
-E:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Xml.XmlDocument.dll
-E:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Xml.XmlSerializer.dll
-E:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Xml.XPath.dll
-E:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Xml.XPath.XDocument.dll
-E:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\LibUtilCasc.dll
-E:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
-E:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\Newtonsoft.Json.dll
-E:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\RestSharp.dll
-E:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Buffers.dll
-E:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Memory.dll
-E:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Numerics.Vectors.dll
-E:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
-E:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Text.Encodings.Web.dll
-E:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Text.Json.dll
-E:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Threading.Tasks.Extensions.dll
-E:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\Renci.SshNet.dll
-E:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\LibUtilCasc.pdb
-E:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
-E:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\Newtonsoft.Json.xml
-E:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\RestSharp.xml
-E:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Buffers.xml
-E:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Memory.xml
-E:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Numerics.Vectors.xml
-E:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
-E:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Text.Encodings.Web.xml
-E:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Text.Json.xml
-E:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Threading.Tasks.Extensions.xml
-E:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\obj\Debug\AppPrueba.csproj.AssemblyReference.cache
-E:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\obj\Debug\AppPrueba.exe.config
-E:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\obj\Debug\AppPrueba.Form1.resources
-E:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\obj\Debug\AppPrueba.Properties.Resources.resources
-E:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\obj\Debug\AppPrueba.csproj.GenerateResource.cache
-E:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\obj\Debug\AppPrueba.csproj.CoreCompileInputs.cache
-E:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\obj\Debug\AppPrueba.csproj.CopyComplete
-E:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\obj\Debug\AppPrueba.exe
-E:\Git\LibUtilCasc\LibUtilCasc\AppPrueba\obj\Debug\AppPrueba.pdb
+F:\Dev\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\Lib\Renci.SshNet.dll
+F:\Dev\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\AppPrueba.exe.config
+F:\Dev\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\AppPrueba.exe
+F:\Dev\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\AppPrueba.pdb
+F:\Dev\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\Microsoft.Win32.Primitives.dll
+F:\Dev\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\netstandard.dll
+F:\Dev\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.AppContext.dll
+F:\Dev\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Collections.Concurrent.dll
+F:\Dev\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Collections.dll
+F:\Dev\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Collections.NonGeneric.dll
+F:\Dev\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Collections.Specialized.dll
+F:\Dev\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.ComponentModel.dll
+F:\Dev\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+F:\Dev\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.ComponentModel.Primitives.dll
+F:\Dev\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.ComponentModel.TypeConverter.dll
+F:\Dev\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Console.dll
+F:\Dev\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Data.Common.dll
+F:\Dev\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Diagnostics.Contracts.dll
+F:\Dev\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Diagnostics.Debug.dll
+F:\Dev\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+F:\Dev\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Diagnostics.Process.dll
+F:\Dev\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Diagnostics.StackTrace.dll
+F:\Dev\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+F:\Dev\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Diagnostics.Tools.dll
+F:\Dev\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Diagnostics.TraceSource.dll
+F:\Dev\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Diagnostics.Tracing.dll
+F:\Dev\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Drawing.Primitives.dll
+F:\Dev\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Dynamic.Runtime.dll
+F:\Dev\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Globalization.Calendars.dll
+F:\Dev\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Globalization.dll
+F:\Dev\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Globalization.Extensions.dll
+F:\Dev\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.IO.Compression.dll
+F:\Dev\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.IO.Compression.ZipFile.dll
+F:\Dev\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.IO.dll
+F:\Dev\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.IO.FileSystem.dll
+F:\Dev\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+F:\Dev\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.IO.FileSystem.Primitives.dll
+F:\Dev\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.IO.FileSystem.Watcher.dll
+F:\Dev\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.IO.IsolatedStorage.dll
+F:\Dev\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.IO.MemoryMappedFiles.dll
+F:\Dev\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.IO.Pipes.dll
+F:\Dev\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+F:\Dev\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Linq.dll
+F:\Dev\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Linq.Expressions.dll
+F:\Dev\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Linq.Parallel.dll
+F:\Dev\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Linq.Queryable.dll
+F:\Dev\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Net.Http.dll
+F:\Dev\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Net.NameResolution.dll
+F:\Dev\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Net.NetworkInformation.dll
+F:\Dev\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Net.Ping.dll
+F:\Dev\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Net.Primitives.dll
+F:\Dev\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Net.Requests.dll
+F:\Dev\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Net.Security.dll
+F:\Dev\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Net.Sockets.dll
+F:\Dev\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Net.WebHeaderCollection.dll
+F:\Dev\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Net.WebSockets.Client.dll
+F:\Dev\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Net.WebSockets.dll
+F:\Dev\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.ObjectModel.dll
+F:\Dev\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Reflection.dll
+F:\Dev\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Reflection.Extensions.dll
+F:\Dev\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Reflection.Primitives.dll
+F:\Dev\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Resources.Reader.dll
+F:\Dev\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Resources.ResourceManager.dll
+F:\Dev\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Resources.Writer.dll
+F:\Dev\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+F:\Dev\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Runtime.dll
+F:\Dev\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Runtime.Extensions.dll
+F:\Dev\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Runtime.Handles.dll
+F:\Dev\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Runtime.InteropServices.dll
+F:\Dev\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\Dev\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Runtime.Numerics.dll
+F:\Dev\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Runtime.Serialization.Formatters.dll
+F:\Dev\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Runtime.Serialization.Json.dll
+F:\Dev\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Runtime.Serialization.Primitives.dll
+F:\Dev\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Runtime.Serialization.Xml.dll
+F:\Dev\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Security.Claims.dll
+F:\Dev\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Security.Cryptography.Algorithms.dll
+F:\Dev\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Security.Cryptography.Csp.dll
+F:\Dev\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Security.Cryptography.Encoding.dll
+F:\Dev\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Security.Cryptography.Primitives.dll
+F:\Dev\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+F:\Dev\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Security.Principal.dll
+F:\Dev\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Security.SecureString.dll
+F:\Dev\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Text.Encoding.dll
+F:\Dev\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Text.Encoding.Extensions.dll
+F:\Dev\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Text.RegularExpressions.dll
+F:\Dev\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Threading.dll
+F:\Dev\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Threading.Overlapped.dll
+F:\Dev\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Threading.Tasks.dll
+F:\Dev\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Threading.Tasks.Parallel.dll
+F:\Dev\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Threading.Thread.dll
+F:\Dev\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Threading.ThreadPool.dll
+F:\Dev\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Threading.Timer.dll
+F:\Dev\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.ValueTuple.dll
+F:\Dev\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Xml.ReaderWriter.dll
+F:\Dev\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Xml.XDocument.dll
+F:\Dev\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Xml.XmlDocument.dll
+F:\Dev\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Xml.XmlSerializer.dll
+F:\Dev\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Xml.XPath.dll
+F:\Dev\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Xml.XPath.XDocument.dll
+F:\Dev\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\LibUtilCasc.dll
+F:\Dev\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Dev\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\Newtonsoft.Json.dll
+F:\Dev\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\RestSharp.dll
+F:\Dev\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Buffers.dll
+F:\Dev\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Memory.dll
+F:\Dev\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Numerics.Vectors.dll
+F:\Dev\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\Dev\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Text.Encodings.Web.dll
+F:\Dev\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Text.Json.dll
+F:\Dev\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Threading.Tasks.Extensions.dll
+F:\Dev\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\NLog.dll
+F:\Dev\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\Renci.SshNet.dll
+F:\Dev\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\LibUtilCasc.pdb
+F:\Dev\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+F:\Dev\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\Newtonsoft.Json.xml
+F:\Dev\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\RestSharp.xml
+F:\Dev\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Buffers.xml
+F:\Dev\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Memory.xml
+F:\Dev\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Numerics.Vectors.xml
+F:\Dev\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\Dev\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Text.Encodings.Web.xml
+F:\Dev\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Text.Json.xml
+F:\Dev\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\System.Threading.Tasks.Extensions.xml
+F:\Dev\Git\LibUtilCasc\LibUtilCasc\AppPrueba\bin\Debug\NLog.xml
+F:\Dev\Git\LibUtilCasc\LibUtilCasc\AppPrueba\obj\Debug\AppPrueba.csproj.AssemblyReference.cache
+F:\Dev\Git\LibUtilCasc\LibUtilCasc\AppPrueba\obj\Debug\AppPrueba.csproj.SuggestedBindingRedirects.cache
+F:\Dev\Git\LibUtilCasc\LibUtilCasc\AppPrueba\obj\Debug\AppPrueba.exe.config
+F:\Dev\Git\LibUtilCasc\LibUtilCasc\AppPrueba\obj\Debug\AppPrueba.Form1.resources
+F:\Dev\Git\LibUtilCasc\LibUtilCasc\AppPrueba\obj\Debug\AppPrueba.Properties.Resources.resources
+F:\Dev\Git\LibUtilCasc\LibUtilCasc\AppPrueba\obj\Debug\AppPrueba.csproj.GenerateResource.cache
+F:\Dev\Git\LibUtilCasc\LibUtilCasc\AppPrueba\obj\Debug\AppPrueba.csproj.CoreCompileInputs.cache
+F:\Dev\Git\LibUtilCasc\LibUtilCasc\AppPrueba\obj\Debug\AppPrueba.csproj.Up2Date
+F:\Dev\Git\LibUtilCasc\LibUtilCasc\AppPrueba\obj\Debug\AppPrueba.exe
+F:\Dev\Git\LibUtilCasc\LibUtilCasc\AppPrueba\obj\Debug\AppPrueba.pdb

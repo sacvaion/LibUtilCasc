@@ -1,67 +1,14 @@
-C:\Users\CARLOS\source\repos\LibUtilCasc\LibUtilCasc\obj\Debug\LibUtilCasc.csproj.CoreCompileInputs.cache
-C:\Users\CARLOS\source\repos\LibUtilCasc\LibUtilCasc\bin\Debug\LibUtilCasc.dll
-C:\Users\CARLOS\source\repos\LibUtilCasc\LibUtilCasc\bin\Debug\LibUtilCasc.pdb
-C:\Users\CARLOS\source\repos\LibUtilCasc\LibUtilCasc\obj\Debug\LibUtilCasc.dll
-C:\Users\CARLOS\source\repos\LibUtilCasc\LibUtilCasc\obj\Debug\LibUtilCasc.pdb
-C:\Users\carlos.siabato\Dropbox\PROGRAMACION\Proyectos Lib\LibUtilCasc\LibUtilCasc\bin\Debug\LibUtilCasc.dll
-C:\Users\carlos.siabato\Dropbox\PROGRAMACION\Proyectos Lib\LibUtilCasc\LibUtilCasc\bin\Debug\LibUtilCasc.pdb
-C:\Users\carlos.siabato\Dropbox\PROGRAMACION\Proyectos Lib\LibUtilCasc\LibUtilCasc\obj\Debug\LibUtilCasc.csproj.CoreCompileInputs.cache
-C:\Users\carlos.siabato\Dropbox\PROGRAMACION\Proyectos Lib\LibUtilCasc\LibUtilCasc\obj\Debug\LibUtilCasc.dll
-C:\Users\carlos.siabato\Dropbox\PROGRAMACION\Proyectos Lib\LibUtilCasc\LibUtilCasc\obj\Debug\LibUtilCasc.pdb
-C:\Users\carlos.siabato\Dropbox\PROGRAMACION\Proyectos Lib\LibUtilCasc\LibUtilCasc\bin\Debug\Vintasoft.Barcode.dll
-C:\Users\carlos.siabato\Dropbox\PROGRAMACION\Proyectos Lib\LibUtilCasc\LibUtilCasc\obj\Debug\LibUtilCasc.csprojResolveAssemblyReference.cache
-C:\Users\carlos.siabato\Dropbox\PROGRAMACION\Proyectos Lib\LibUtilCasc\LibUtilCasc\bin\Debug\Newtonsoft.Json.dll
-C:\Users\carlos.siabato\Dropbox\PROGRAMACION\Proyectos Lib\LibUtilCasc\LibUtilCasc\bin\Debug\Newtonsoft.Json.xml
-D:\VS\Proyectos Lib\LibUtilCasc\LibUtilCasc\bin\Debug\LibUtilCasc.dll
-D:\VS\Proyectos Lib\LibUtilCasc\LibUtilCasc\bin\Debug\LibUtilCasc.pdb
-D:\VS\Proyectos Lib\LibUtilCasc\LibUtilCasc\bin\Debug\Newtonsoft.Json.dll
-D:\VS\Proyectos Lib\LibUtilCasc\LibUtilCasc\bin\Debug\Vintasoft.Barcode.dll
-D:\VS\Proyectos Lib\LibUtilCasc\LibUtilCasc\bin\Debug\Newtonsoft.Json.xml
-D:\VS\Proyectos Lib\LibUtilCasc\LibUtilCasc\obj\Debug\LibUtilCasc.dll
-D:\VS\Proyectos Lib\LibUtilCasc\LibUtilCasc\obj\Debug\LibUtilCasc.pdb
-D:\GitHub\LibUtilCasc\LibUtilCasc\LibUtilCasc\bin\Debug\Lib\Renci.SshNet.dll
-D:\GitHub\LibUtilCasc\LibUtilCasc\LibUtilCasc\bin\Debug\LibUtilCasc.dll
-D:\GitHub\LibUtilCasc\LibUtilCasc\LibUtilCasc\bin\Debug\LibUtilCasc.pdb
-D:\GitHub\LibUtilCasc\LibUtilCasc\LibUtilCasc\bin\Debug\Newtonsoft.Json.dll
-D:\GitHub\LibUtilCasc\LibUtilCasc\LibUtilCasc\bin\Debug\Renci.SshNet.dll
-D:\GitHub\LibUtilCasc\LibUtilCasc\LibUtilCasc\bin\Debug\Vintasoft.Barcode.dll
-D:\GitHub\LibUtilCasc\LibUtilCasc\LibUtilCasc\bin\Debug\Newtonsoft.Json.xml
-D:\GitHub\LibUtilCasc\LibUtilCasc\LibUtilCasc\obj\Debug\LibUtilCasc.csproj.CoreCompileInputs.cache
-D:\GitHub\LibUtilCasc\LibUtilCasc\LibUtilCasc\obj\Debug\LibUtilCasc.dll
-D:\GitHub\LibUtilCasc\LibUtilCasc\LibUtilCasc\obj\Debug\LibUtilCasc.pdb
-D:\GitHub\LibUtilCasc\LibUtilCasc\LibUtilCasc\obj\Debug\LibUtilCasc.csprojResolveAssemblyReference.cache
-C:\Git\LibUtilCasc\LibUtilCasc\LibUtilCasc\bin\Debug\Lib\Renci.SshNet.dll
-C:\Git\LibUtilCasc\LibUtilCasc\LibUtilCasc\bin\Debug\LibUtilCasc.dll
-C:\Git\LibUtilCasc\LibUtilCasc\LibUtilCasc\bin\Debug\LibUtilCasc.pdb
-C:\Git\LibUtilCasc\LibUtilCasc\LibUtilCasc\bin\Debug\Newtonsoft.Json.dll
-C:\Git\LibUtilCasc\LibUtilCasc\LibUtilCasc\bin\Debug\Renci.SshNet.dll
-C:\Git\LibUtilCasc\LibUtilCasc\LibUtilCasc\bin\Debug\Vintasoft.Barcode.dll
-C:\Git\LibUtilCasc\LibUtilCasc\LibUtilCasc\bin\Debug\Newtonsoft.Json.xml
-C:\Git\LibUtilCasc\LibUtilCasc\LibUtilCasc\obj\Debug\LibUtilCasc.csproj.CoreCompileInputs.cache
-C:\Git\LibUtilCasc\LibUtilCasc\LibUtilCasc\obj\Debug\LibUtilCasc.csproj.CopyComplete
-C:\Git\LibUtilCasc\LibUtilCasc\LibUtilCasc\obj\Debug\LibUtilCasc.dll
-C:\Git\LibUtilCasc\LibUtilCasc\LibUtilCasc\obj\Debug\LibUtilCasc.pdb
-C:\Git\LibUtilCasc\LibUtilCasc\LibUtilCasc\obj\Debug\LibUtilCasc.csprojAssemblyReference.cache
-D:\Git\LibUtilCasc\LibUtilCasc\LibUtilCasc\bin\Debug\Lib\Renci.SshNet.dll
-D:\Git\LibUtilCasc\LibUtilCasc\LibUtilCasc\bin\Debug\LibUtilCasc.dll
-D:\Git\LibUtilCasc\LibUtilCasc\LibUtilCasc\bin\Debug\LibUtilCasc.pdb
-D:\Git\LibUtilCasc\LibUtilCasc\LibUtilCasc\bin\Debug\Newtonsoft.Json.dll
-D:\Git\LibUtilCasc\LibUtilCasc\LibUtilCasc\bin\Debug\Renci.SshNet.dll
-D:\Git\LibUtilCasc\LibUtilCasc\LibUtilCasc\bin\Debug\Vintasoft.Barcode.dll
-D:\Git\LibUtilCasc\LibUtilCasc\LibUtilCasc\bin\Debug\Newtonsoft.Json.xml
-D:\Git\LibUtilCasc\LibUtilCasc\LibUtilCasc\obj\Debug\LibUtilCasc.csproj.CoreCompileInputs.cache
-D:\Git\LibUtilCasc\LibUtilCasc\LibUtilCasc\obj\Debug\LibUtilCasc.csproj.CopyComplete
-D:\Git\LibUtilCasc\LibUtilCasc\LibUtilCasc\obj\Debug\LibUtilCasc.dll
-D:\Git\LibUtilCasc\LibUtilCasc\LibUtilCasc\obj\Debug\LibUtilCasc.pdb
-D:\Git\LibUtilCasc\LibUtilCasc\LibUtilCasc\obj\Debug\LibUtilCasc.csproj.AssemblyReference.cache
-E:\Git\LibUtilCasc\LibUtilCasc\LibUtilCasc\bin\Debug\Lib\Renci.SshNet.dll
-E:\Git\LibUtilCasc\LibUtilCasc\LibUtilCasc\bin\Debug\LibUtilCasc.dll
-E:\Git\LibUtilCasc\LibUtilCasc\LibUtilCasc\bin\Debug\LibUtilCasc.pdb
-E:\Git\LibUtilCasc\LibUtilCasc\LibUtilCasc\bin\Debug\Newtonsoft.Json.dll
-E:\Git\LibUtilCasc\LibUtilCasc\LibUtilCasc\bin\Debug\Renci.SshNet.dll
-E:\Git\LibUtilCasc\LibUtilCasc\LibUtilCasc\bin\Debug\Vintasoft.Barcode.dll
-E:\Git\LibUtilCasc\LibUtilCasc\LibUtilCasc\bin\Debug\Newtonsoft.Json.xml
-E:\Git\LibUtilCasc\LibUtilCasc\LibUtilCasc\obj\Debug\LibUtilCasc.csproj.CoreCompileInputs.cache
-E:\Git\LibUtilCasc\LibUtilCasc\LibUtilCasc\obj\Debug\LibUtilCasc.csproj.CopyComplete
-E:\Git\LibUtilCasc\LibUtilCasc\LibUtilCasc\obj\Debug\LibUtilCasc.dll
-E:\Git\LibUtilCasc\LibUtilCasc\LibUtilCasc\obj\Debug\LibUtilCasc.pdb
+F:\Dev\Git\LibUtilCasc\LibUtilCasc\LibUtilCasc\obj\Debug\LibUtilCasc.csproj.AssemblyReference.cache
+F:\Dev\Git\LibUtilCasc\LibUtilCasc\LibUtilCasc\obj\Debug\LibUtilCasc.csproj.CoreCompileInputs.cache
+F:\Dev\Git\LibUtilCasc\LibUtilCasc\LibUtilCasc\bin\Debug\Lib\Renci.SshNet.dll
+F:\Dev\Git\LibUtilCasc\LibUtilCasc\LibUtilCasc\bin\Debug\LibUtilCasc.dll
+F:\Dev\Git\LibUtilCasc\LibUtilCasc\LibUtilCasc\bin\Debug\LibUtilCasc.pdb
+F:\Dev\Git\LibUtilCasc\LibUtilCasc\LibUtilCasc\bin\Debug\Newtonsoft.Json.dll
+F:\Dev\Git\LibUtilCasc\LibUtilCasc\LibUtilCasc\bin\Debug\NLog.dll
+F:\Dev\Git\LibUtilCasc\LibUtilCasc\LibUtilCasc\bin\Debug\Renci.SshNet.dll
+F:\Dev\Git\LibUtilCasc\LibUtilCasc\LibUtilCasc\bin\Debug\Vintasoft.Barcode.dll
+F:\Dev\Git\LibUtilCasc\LibUtilCasc\LibUtilCasc\bin\Debug\Newtonsoft.Json.xml
+F:\Dev\Git\LibUtilCasc\LibUtilCasc\LibUtilCasc\bin\Debug\NLog.xml
+F:\Dev\Git\LibUtilCasc\LibUtilCasc\LibUtilCasc\obj\Debug\LibUtilC.9283FB4F.Up2Date
+F:\Dev\Git\LibUtilCasc\LibUtilCasc\LibUtilCasc\obj\Debug\LibUtilCasc.dll
+F:\Dev\Git\LibUtilCasc\LibUtilCasc\LibUtilCasc\obj\Debug\LibUtilCasc.pdb

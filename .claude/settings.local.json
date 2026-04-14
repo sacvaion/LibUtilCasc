@@ -1,0 +1,26 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(dotnet build:*)",
+      "Bash(msbuild LibUtilCasc.sln /p:Configuration=Debug /verbosity:minimal)",
+      "Skill(update-config)",
+      "Bash(grep \"\\\\.cs$\")",
+      "Bash(ls -la *.cs)",
+      "Bash(ls:*)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(msbuild LibUtilCasc.sln /p:Configuration=Debug /t:Clean)",
+      "Bash(grep -c \"public static\" LibUtilCasc/LibUtilCasc/*.cs)",
+      "Bash(grep \"using System.Configuration\" LibUtilCasc/LibUtilCasc/*.cs)",
+      "Bash(grep -l \"using System.Configuration\" LibUtilCasc/LibUtilCasc/*.cs)",
+      "Bash(awk '{print} END {print \"---\"; print \"Total insertions y deletions: \" $1 \"+\" $2}')",
+      "Bash(msbuild LibUtilCasc.sln /p:Configuration=Debug /p:Platform=\"Any CPU\")",
+      "Bash(\"/c/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe\" LibUtilCasc.sln /p:Configuration=Debug)",
+      "Bash(\"/c/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe\" LibUtilCasc.sln '/p:Configuration=Debug')",
+      "Bash(\"/c/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe\" LibUtilCasc.sln)",
+      "Bash(rm -rf LibUtilCasc/bin/Debug LibUtilCasc/obj/Debug)",
+      "Bash(rm -rf AppPrueba/bin/Debug AppPrueba/obj/Debug)",
+      "Bash(find packages:*)"
+    ]
+  }
+}

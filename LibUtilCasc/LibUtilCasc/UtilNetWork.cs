@@ -43,10 +43,20 @@ namespace LibUtilCasc
         {
             //obtener IP
             List<string> lstIP = new List<string>();
-            foreach (var ip in (Dns.GetHostEntry(strHostName)).AddressList.Where(p => p.IsIPv6LinkLocal == false))            
+            foreach (var ip in (Dns.GetHostEntry(strHostName)).AddressList.Where(p => p.IsIPv6LinkLocal == false))
                 lstIP.Add(ip.ToString());
-				
+
             return lstIP;
+        }
+
+        /// <summary>
+        /// Get List Ips Active in client (Async version - does not block UI)
+        /// </summary>
+        /// <param name="strHostName"></param>
+        /// <returns></returns>
+        public static async Task<List<string>> GetLstIpAsync(String strHostName)
+        {
+            return await Task.Run(() => GetLstIp(strHostName));
         }
 
         /// <summary>
